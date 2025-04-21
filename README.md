@@ -41,6 +41,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Feature Encoding and Transformation process has been successfully performed using the data set.
+
 
        
